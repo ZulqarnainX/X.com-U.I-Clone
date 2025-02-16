@@ -1684,6 +1684,12 @@
   .fill-none {
     fill: none;
   }
+  .fill-red-100 {
+    fill: var(--color-red-100);
+  }
+  .fill-red-700 {
+    fill: var(--color-red-700);
+  }
   .stroke-none {
     stroke: none;
   }
