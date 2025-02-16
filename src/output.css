@@ -584,20 +584,8 @@
   .bottom-0 {
     bottom: calc(var(--spacing) * 0);
   }
-  .left-1 {
-    left: calc(var(--spacing) * 1);
-  }
-  .left-1\/2 {
-    left: calc(1/2 * 100%);
-  }
   .left-\[18\%\] {
     left: 18%;
-  }
-  .left-\[19\%\] {
-    left: 19%;
-  }
-  .left-\[20\%\] {
-    left: 20%;
   }
   .isolate {
     isolation: isolate;
@@ -719,17 +707,11 @@
   .m-3 {
     margin: calc(var(--spacing) * 3);
   }
-  .m-5 {
-    margin: calc(var(--spacing) * 5);
-  }
   .m-auto {
     margin: auto;
   }
   .mx-2 {
     margin-inline: calc(var(--spacing) * 2);
-  }
-  .mx-5 {
-    margin-inline: calc(var(--spacing) * 5);
   }
   .mx-auto {
     margin-inline: auto;
@@ -836,9 +818,6 @@
   .h-1 {
     height: calc(var(--spacing) * 1);
   }
-  .h-4 {
-    height: calc(var(--spacing) * 4);
-  }
   .h-7 {
     height: calc(var(--spacing) * 7);
   }
@@ -860,38 +839,17 @@
   .min-h-screen {
     min-height: 100vh;
   }
-  .w-1 {
-    width: calc(var(--spacing) * 1);
-  }
   .w-1\/2 {
     width: calc(1/2 * 100%);
   }
-  .w-3 {
-    width: calc(var(--spacing) * 3);
-  }
-  .w-3\/4 {
-    width: calc(3/4 * 100%);
-  }
-  .w-5 {
-    width: calc(var(--spacing) * 5);
-  }
   .w-8 {
     width: calc(var(--spacing) * 8);
-  }
-  .w-15 {
-    width: calc(var(--spacing) * 15);
-  }
-  .w-16 {
-    width: calc(var(--spacing) * 16);
   }
   .w-17 {
     width: calc(var(--spacing) * 17);
   }
   .w-\[70\%\] {
     width: 70%;
-  }
-  .w-\[80\%\] {
-    width: 80%;
   }
   .w-\[90\%\] {
     width: 90%;
@@ -1578,20 +1536,11 @@
   .bg-blue-500 {
     background-color: var(--color-blue-500);
   }
-  .bg-blue-700 {
-    background-color: var(--color-blue-700);
-  }
   .bg-gray-400 {
     background-color: var(--color-gray-400);
   }
   .bg-gray-700 {
     background-color: var(--color-gray-700);
-  }
-  .bg-green-400 {
-    background-color: var(--color-green-400);
-  }
-  .bg-red-300 {
-    background-color: var(--color-red-300);
   }
   .bg-red-500 {
     background-color: var(--color-red-500);
@@ -1601,9 +1550,6 @@
   }
   .bg-red-500\/\[50\%\] {
     background-color: color-mix(in oklab, var(--color-red-500) 50%, transparent);
-  }
-  .bg-white {
-    background-color: var(--color-white);
   }
   .-bg-conic {
     --tw-gradient-position: in oklab;
@@ -1954,12 +1900,6 @@
   }
   .text-blue-400 {
     color: var(--color-blue-400);
-  }
-  .text-blue-600 {
-    color: var(--color-blue-600);
-  }
-  .text-blue-700 {
-    color: var(--color-blue-700);
   }
   .text-gray-200 {
     color: var(--color-gray-200);
