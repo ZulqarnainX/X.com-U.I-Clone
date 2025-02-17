@@ -1481,6 +1481,10 @@
     border-inline-style: var(--tw-border-style);
     border-inline-width: 1px;
   }
+  .border-x-0 {
+    border-inline-style: var(--tw-border-style);
+    border-inline-width: 0px;
+  }
   .border-y {
     border-block-style: var(--tw-border-style);
     border-block-width: 1px;
@@ -1533,11 +1537,23 @@
     --tw-border-style: solid;
     border-style: solid;
   }
+  .border-x-gray-400 {
+    border-inline-color: var(--color-gray-400);
+  }
+  .border-x-gray-500 {
+    border-inline-color: var(--color-gray-500);
+  }
+  .border-x-gray-700 {
+    border-inline-color: var(--color-gray-700);
+  }
   .border-x-white {
     border-inline-color: var(--color-white);
   }
   .border-y-black {
     border-block-color: var(--color-black);
+  }
+  .border-y-gray-700 {
+    border-block-color: var(--color-gray-700);
   }
   .bg-\(--my_variable\) {
     background-color: var(--my_variable);
