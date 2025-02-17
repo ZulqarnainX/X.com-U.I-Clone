@@ -23,7 +23,7 @@ Check out the live preview of the project:
 ![Preview](preview/preview.png)
 
 
-🔗 [**Live Demo**](#) *(https://uiclone57.netlify.app/)*
+🔗 [**Live Demo**](https://uiclone57.netlify.app/)
 
 
 
